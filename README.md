@@ -3,11 +3,11 @@
 ## Reproduction d'un site internet (Simpsons2 
 
 
-### HTML
+#### HTML
 
-### CSS
+#### CSS
 
-### Responsive Design
+#### Responsive Design
 
  - Media queries
  - attractive design
