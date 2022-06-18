@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ffcc00;
+}
+
+#wrapper {
+    width: 70%;
+    margin: 0 auto;
+}
+
+    /* HEADER */
+
+header h2 {
+    text-align: center;
+    background-color: #4d9cce;
+    color: white;
+    padding: 5px;
+}
+
+header figure img {
+    width: 100%;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    display: block;
+}
+
+header nav {
+    text-align: center;
+    background-color: #4d9cce;
+    padding: 10px;
+    display: block;
+}
+
+header nav a {
+    text-decoration: none;
+    color: rgb(218, 218, 218);
+    text-transform: uppercase;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 13px;
+}
+
+    /* MAIN */
+
+main {
+    background-color: white;
+    display: flex;
+    padding: 20px;
+    border-top: 1px dashed black;
+}
+
+        /* Article */
+
+main article {
+    width: 70%;
+    margin-right: 20px;
+}
+
+main article h1 {
+    color: #ffcc00;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+main article p {
+    text-align: justify;
+    font-size: 15px;
+    line-height: 15px;
+    margin-bottom: 20px;
+}
+
+main article figure {
+    padding: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+main article figure img {
+    width: 33%;
+    border: 1px solid gray;
+}
+
+
+        /* Aside */
+
+main aside {
+    width: 30%;
+    margin-top: 45px;
+    background-color: #4d9cce;
+    padding: 10px 4%;
+}
+
+main aside figure img {
+    width: 100%;
+    border: 1px solid white;
+}
+
+main aside figure figcaption {
+    color: white;
+    text-align: center;
+}
+
+main aside figure figcaption h3{
+    font-size: 23px;
+    line-height: 17px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+main aside figure figcaption h3 span{
+    font-size: 13px;
+    font-weight: 100;
+}
+
+main aside figure figcaption p {
+    text-align: justify;
+    font-size: 15px;
+    position: relative;
+    margin-left: -18px;
+    margin-right: -18px;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #133a78;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+}
+
