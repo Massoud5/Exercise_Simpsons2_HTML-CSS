@@ -55,9 +55,3 @@
         width: 100%;
     }
 }
-
-@media (max-width: 600px) {
-    header h2 {
-        color: red;
-    }
-}
