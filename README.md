@@ -1,8 +1,8 @@
-# Elan Formation Exercice 
+# Elan Formation Exercise 
 
-## Reproduction d'un site internet (Simpsons2) 
+## Creating a Website (Simpsons2) 
 
-### Live URL: https://massoud5.github.io/Exercice_Simpsons2_HTML-CSS/index.html
+### Live URL: https://massoud5.github.io/Exercise_Simpsons2_HTML-CSS/index.html
 
 #### HTML
 
